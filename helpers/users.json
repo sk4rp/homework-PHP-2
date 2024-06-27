@@ -1,0 +1,12 @@
+{
+  "users": {
+    "user1": {
+      "password": "$2y$10$EXAMPLEHASH",
+      "birthdate": "1990-01-01"
+    },
+    "user2": {
+      "password": "$2y$10$EXAMPLEHASH",
+      "birthdate": "1995-02-15"
+    }
+  }
+}
